@@ -1,0 +1,17 @@
+## Day 1: Environment Setup
+
+### Tools Installed
+- [x] kubectl v1.29.0
+- [x] minikube / kind / k3d (choose one)
+- [x] Docker Desktop with Kubernetes
+- [x] VS Code + Kubernetes extension
+
+### Commands Learned
+kubectl version --client
+kubectl cluster-info
+kubectl get nodes
+
+### Notes
+- Minikube: Best for beginners, supports addons
+- Kind: Runs in Docker, great for CI/CD
+- K3d: Lightweight, fastest startup
