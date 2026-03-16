@@ -1,10 +1,10 @@
 # Day1:Environment-Setup
 
 # Tools Installed
-- [x] kubectl v1.29.0
-- [x] minikube / kind / k3d (choose one)
-- [x] Docker Desktop with Kubernetes
-- [x] VS Code + Kubernetes extension
+-  kubectl v1.29.0
+-  minikube / kind / k3d (choose one)
+-  Docker Desktop with Kubernetes
+-  VS Code + Kubernetes extension
 
 # Commands Learned
 kubectl version --client
